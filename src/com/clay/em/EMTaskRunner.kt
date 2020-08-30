@@ -2,7 +2,7 @@ package com.clay.em
 
 import com.clay.em.exception.EmployeeNotFoundException
 import com.clay.em.model.Employee
-import com.clay.em.oprations.EMOperationsImpl
+import com.clay.em.operations.EMOperationsImpl
 import java.util.*
 import kotlin.system.exitProcess
 

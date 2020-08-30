@@ -1,4 +1,4 @@
-package com.clay.em.oprations
+package com.clay.em.operations
 
 import com.clay.em.model.Employee
 import java.util.*
